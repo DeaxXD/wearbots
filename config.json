@@ -1,0 +1,93 @@
+{
+    "bot": {
+        "token": "MTAzMTU5MTI1NjAzMzMzMzI1OA.GIXdcI.3wUNrxKGn4PW1xNpG3fzLz9o-wRn2qhIL46xZg",
+        "owner": "990186530767249419",
+        "prefix": ".",
+        "BotStatus": "Wéar #1576",
+        "BotFooter": "Billy was here!",
+        "cooldown": 8,
+        "invitelog": "1031278083073904690"
+    },
+    "penals": {
+        "ban": {
+            "staff": "1031247411252842656",
+            "log": "1031591817872953555",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "1031247562105176068",
+            "roles": "1031249516193648701",
+            "log": "",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "1031247481742303402",
+            "roles": "1031249663384359032",
+            "log": "",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "1031247682603335761",
+            "log": ""
+        },
+        "transport": {
+            "staff": "1031247730145759272"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "1031600951661973566",
+        "rollog": "1031259476302499971",
+        "messagelog": "1031259476302499971",
+        "seslog": "1031259476302499971",
+        "guardlog": "1031259136798769183"
+    },
+    "roles": {
+        "vip": "1031270231777226904",
+        "sponsor": "1031270249443635223",
+        "müzisyen": "",
+        "team": "1031270247199674408"
+    },
+    "channels": {
+        "chat": "1031255614711668826",
+        "voicechannel": "1031258797093687347",
+        "welcomechannel": "1031251019071488020",
+        "rules": "1031253209395761282"
+    },
+    "registration": {
+        "GuildDiscrim": "1576",
+        "unregistered": "1031250658344583238",
+        "man": ["1031249038034608169"],
+        "woman": ["1031248752889040996"],
+        "yetkilialim": "1031247626433220688",
+        "staff": "1031247730145759272",
+        "enaltyetkilirolü": "1031246756626829393",
+        "GuilDTag": "✫",
+        "TagSymbol": "✫",
+        "autonickname": "✫ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "1031249588985811006",
+        "susoeciosnickname": "✫ Şüpheli Hesap",
+        "oneman": "1031249038034608169",
+        "onewoman": "1031248752889040996",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "1031225620845318144",
+        "GuilDName": "✫ Wéar #1576",
+        "GuildOwnerRole": ["1031244291055562802"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": "✅",
+        "no": "❎"
+
+    }
+    }
+
